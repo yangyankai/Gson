@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/10/8 3:56:25
+  ~ Project: Gson
+  ~ File: strings.xml
+  ~ Class: strings.xml
+  ~ Module: p
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<resources>
+    <string name="app_name">Gson</string>
+</resources>

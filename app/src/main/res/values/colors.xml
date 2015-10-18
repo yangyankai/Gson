@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/10/8 3:56:25
+  ~ Project: Gson
+  ~ File: colors.xml
+  ~ Class: colors.xml
+  ~ Module: p
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

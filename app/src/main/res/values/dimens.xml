@@ -1,0 +1,16 @@
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/10/8 3:56:25
+  ~ Project: Gson
+  ~ File: dimens.xml
+  ~ Class: dimens.xml
+  ~ Module: p
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
