@@ -56,6 +56,21 @@ public class MainActivity extends AppCompatActivity {
 			Person p = ps.get(i);
 			//			System.out.println(p.toString());
 		}
+		
+		
+		
+		
+				//				Gson gson = new Gson();
+				/****单级Json的解析***/
+				//				Person person=gson.fromJson("{'name':'n1','nickname':'n2'}",Person.class);
+				//				person.toString();
+				/****单级数组Json的解析 1***/
+				//				List<Person> personList = gson.fromJson("[{'name':'n1'," +
+				//																"'nickname':'n2'},{'name':'n3'," + "'nickname':'n4'}]", new TypeToken<List<Person>>() {}.getType());
+				//				personList.toString();
+				/****单级数组Json的解析  2***/
+				//				jsonArray= jsonObject.getJSONArray("data");
+
 
 
 
